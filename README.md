@@ -1,4 +1,4 @@
-# Building a Comprehensive Security Home Lab: Active Directory, Splunk SIEM, and Threat Simulation
+# Building a Comprehensive Security Home Lab: Active Directory, Splunk SIEM, and Threat Simulation 
 ## Objective
 
 This is a writeup to document my work on [MyDFIR's Active Directory project](https://www.youtube.com/watch?v=5OessbOgyEo).
