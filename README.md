@@ -21,7 +21,7 @@ can pick up and log various attacks.
 
 ## Skills Practiced
 
-Virtualization and Network Configuration.\<br\>
+Virtualization and Network Configuration.
 
 Installing Splunk Enterprise on a CLI based Ubuntu server to serve as a SIEM
 platform.
