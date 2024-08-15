@@ -394,7 +394,7 @@ created, verified by checking the list of users on the Domain Controller
 
 ![](./images/image13.png)
 
-I can see that the new account even as administrator privileges which is
+I can see that the new account even has administrator privileges which is
 pretty scary.
 
 ![](./images/image37.png)
