@@ -422,3 +422,5 @@ with these types of malicious actions. However, Atomic Red Team may have
 some tests that don't end up generating events in Splunk which means
 that there are blind sides in our security. From there, steps could be
 taken to detect and secure against those kinds of activities.
+
+Now, I have a fully functional security home lab I can mess around with. After I take snapshots of these machines, I don't have to be afraid of breaking things and changing dangerous settings and running intrusive tests with ART. This home lab will be very useful in the future.
