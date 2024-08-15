@@ -24,38 +24,38 @@ can pick up and log various attacks.
 Virtualization and Network Configuration.\<br\>
 
 Installing Splunk Enterprise on a CLI based Ubuntu server to serve as a SIEM
-platform.\<br\>
+platform.
 
 Installing a Splunk Universal Forwarder on Windows machines to send
-telemetry data to the Splunk server.\<br\>
+telemetry data to the Splunk server.
 
 Configuring Splunk to receive and index logs, including the creation of
-a new index.\<br\>
+a new index.
 
 Configuring a Windows Server as an Active Directory Domain
-Controller.\<br\>
+Controller.
 
 Creating and managing a new domain, including the creation of
-organizational units and user accounts.\<br\>
+organizational units and user accounts.
 
-Connecting a different computer to the domain.\<br\>
+Connecting a different computer to the domain.
 
-Generating security events to be analyzed in Splunk.\<br\>
+Generating security events to be analyzed in Splunk.
 
-Simulating a Brute Force attack using Crowbar.\<br\>
+Simulating a Brute Force attack using Crowbar.
 
-Identifying malicious patterns and understanding event codes.\<br\>
+Identifying malicious patterns and understanding event codes.
 
 Installing and running Atomic Red Team (ART) tests to simulate various
-attack techniques aligned with the MITRE ATT&CK framework.\<br\>
+attack techniques aligned with the MITRE ATT&CK framework.
 
-Identifying potential gaps in security.\<br\>
+Identifying potential gaps in security.
 
 Addressing challenges related to network connectivity, permissions, and
-software installation across different virtual machines.\<br\>
+software installation across different virtual machines.
 
 Verifying the success of many different configurations ensuring that all
-components function as intended within this lab environment.\<br\>G
+components function as intended within this lab environment.
 
 ## Method
 
