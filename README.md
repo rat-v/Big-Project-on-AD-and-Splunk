@@ -1,7 +1,7 @@
 # Building a Comprehensive Security Home Lab: Active Directory, Splunk SIEM, and Threat Simulation
 ## Objective
 
-This project is documenting me following MyDFIR's Active Directory project.
+This is a writeup to document my work on [MyDFIR's Active Directory project](https://www.youtube.com/watch?v=5OessbOgyEo).
 The objectives of this project are to: build a functional domain environment with Active Directory, build a Splunk SIEM and
 install Sysmon + telemetry forwarders on appropriate devices, and
 simulate multiple attacks against a Windows 10 target and query those
